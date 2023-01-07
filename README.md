@@ -30,17 +30,8 @@ $ python3 PrettyRecon.py -l google-subs.txt -sn Google
 ## Usage
 
 ```bash
-$ python3 PrettyRecon.py --help
-usage: main.py [-h] [-l LIST] [-sn SCAN_NAME]
-
-PrettyRecon Auto
-
-optional arguments:
-  -h, --help            show this help message and exit
-  -l LIST, --sublist LIST
-                        Supply the list to custom sub scan.
-  -sn SCAN_NAME, --scanname SCAN_NAME
-                        Supply a scan name
+$ python3 PrettyRecon.py
+[*] Usage: python3 prettyRecon.py -l google.txt -sn Google
                                               
 ```
 
