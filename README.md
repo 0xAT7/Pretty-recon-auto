@@ -3,7 +3,7 @@ Pretty-recon-auto is an unofficial cli client for [PrettyRecon](https://prettyre
 
 This tool is currently automate CustomSubScan feature only of PrettyRecon. I will update it in Future. Inspired from https://github.com/SiddharthBharadwaj/prettyrecon-cli
 
-As PrettyRecon currently does not have any api feature available, prettyrecon-cli uses email and password for authentication. None of these are saved or shared anywhere other than your computer where it is running.
+As PrettyRecon currently does not have any api feature available, prettyrecon Auto uses email and password for authentication. None of these are saved or shared anywhere other than your computer where it is running.
 
 ## Setup
 
