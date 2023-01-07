@@ -4,6 +4,7 @@ import requests
 from bs4 import BeautifulSoup
 import argparse
 from colorama import Fore, Style
+from config import email, password
 import time
 import sys
 
